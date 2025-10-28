@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bahrain</h3>
 
 - 🔭 I’m currently working on [Prime Nest Real Estate](https://primenest-realestate.vercel.app/)
 
